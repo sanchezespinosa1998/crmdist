@@ -1,0 +1,18 @@
+﻿comercializadora;tarifa_acceso;tarifa_comercial;rango;mantenimiento;comision_variable;comision_fija;canal_preferente;canal;comercial_i;jefe_equipo_i;comercial_ii;jefe_equipo_ii;comercial_iii;jefe_equipo_iii
+NATURGY;2.0TD;NOCHE LUZ;;;;75,00 €;67,50 €;57,00 €;51,30 €;5,70 €;45,60 €;11,40 €;28,50 €;28,50 €
+NATURGY;2.0TD;TARIFA PLANA;;;;75,00 €;67,50 €;57,00 €;51,30 €;5,70 €;45,60 €;11,40 €;28,50 €;28,50 €
+NATURGY;2.0TD;POR USO LUZ;;;;75,00 €;67,50 €;57,00 €;51,30 €;5,70 €;45,60 €;11,40 €;28,50 €;28,50 €
+NATURGY;RL.1;POR USO GAS;;;;75,00 €;67,50 €;57,00 €;51,30 €;5,70 €;45,60 €;11,40 €;28,50 €;28,50 €
+NATURGY;RL.1;TARIFA PLANA GAS;;;;75,00 €;67,50 €;57,00 €;51,30 €;5,70 €;45,60 €;11,40 €;28,50 €;28,50 €
+NATURGY;RL.2;POR USO GAS;;;;75,00 €;67,50 €;57,00 €;51,30 €;5,70 €;45,60 €;11,40 €;28,50 €;28,50 €
+NATURGY;RL.2;TARIFA PLANA GAS;;;;75,00 €;67,50 €;57,00 €;51,30 €;5,70 €;45,60 €;11,40 €;28,50 €;28,50 €
+NATURGY;GAS;;;SVG Complet sin calefaccion;;37,00 €;33,30 €;30,00 €;27,00 €;3,00 €;24,00 €;6,00 €;15,00 €;15,00 €
+NATURGY;GAS;;;SVG Complet con calefaccion;;37,00 €;33,30 €;30,00 €;27,00 €;3,00 €;24,00 €;6,00 €;15,00 €;15,00 €
+NATURGY;GAS;;;SVG Confort;;37,00 €;33,30 €;20,00 €;18,00 €;2,00 €;16,00 €;4,00 €;10,00 €;10,00 €
+NATURGY;GAS;;;SVG Complet Butano;;20,00 €;18,00 €;20,00 €;18,00 €;2,00 €;16,00 €;4,00 €;10,00 €;10,00 €
+NATURGY;LUZ;;;SVE XPRESS PIEZAS;;37,00 €;33,30 €;30,00 €;27,00 €;3,00 €;24,00 €;6,00 €;15,00 €;15,00 €
+NATURGY;GAS;;;SVG XPRESS;;20,00 €;18,00 €;20,00 €;18,00 €;2,00 €;16,00 €;4,00 €;10,00 €;10,00 €
+NATURGY;LUZ;;;SVE XPRESS ;;20,00 €;18,00 €;20,00 €;18,00 €;2,00 €;16,00 €;4,00 €;10,00 €;10,00 €
+NATURGY;LUZ;;;SVE COMPLET;;20,00 €;18,00 €;20,00 €;18,00 €;2,00 €;16,00 €;4,00 €;10,00 €;10,00 €
+NATURGY;LUZ;;;SVH;;20,00 €;18,00 €;20,00 €;18,00 €;2,00 €;16,00 €;4,00 €;10,00 €;10,00 €
+NATURGY;GAS;;;SVH;;20,00 €;18,00 €;20,00 €;18,00 €;2,00 €;16,00 €;4,00 €;10,00 €;10,00 €
